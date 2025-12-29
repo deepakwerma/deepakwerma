@@ -1,65 +1,15 @@
-Microsoft Windows [Version 10.0.26200.7462]
-(c) Microsoft Corporation. All rights reserved.
-
-E:\Web Dev\Profile>GIT STATUS
-git: 'STATUS' is not a git command. See 'git --help'.
-
-E:\Web Dev\Profile>GIT INIT
-git: 'INIT' is not a git command. See 'git --help'.
-
-E:\Web Dev\Profile>git init
-Initialized empty Git repository in E:/Web Dev/Profile/.git/
-
-E:\Web Dev\Profile>git add .
-
-E:\Web Dev\Profile>git istatus
-git: 'istatus' is not a git command. See 'git --help'.
-
-The most similar command is
-        status
-
-E:\Web Dev\Profile>git add .
-
-E:\Web Dev\Profile>git commit -m"add code"
-[master (root-commit) e4d1721] add code
- 1 file changed, 15 insertions(+)
- create mode 100644 REadme.MD
-
-E:\Web Dev\Profile>git branch main
-
-E:\Web Dev\Profile>git branch
-  main
-* master
-
-E:\Web Dev\Profile>git branch -D main
-Deleted branch main (was e4d1721).
-
-E:\Web Dev\Profile>git branch
-* master
-
-E:\Web Dev\Profile>git branch -m master main
-
-E:\Web Dev\Profile>git remote add origin https://github.com/deepakwerma/deepakwerma.git
-
-E:\Web Dev\Profile>git push origin
-fatal: The current branch main has no upstream branch.
-To push the current branch and set the remote as upstream, use
-
-    git push --set-upstream origin main
-
-To have this happen automatically for branches without a tracking
-upstream, see 'push.autoSetupRemote' in 'git help config'.
+# 💫 About Me:
+Full stack developer learning AI, building projects, and open to internships and collaborations.
 
 
-E:\Web Dev\Profile>git push -u origin main
-To https://github.com/deepakwerma/deepakwerma.git
- ! [rejected]        main -> main (fetch first)
-error: failed to push some refs to 'https://github.com/deepakwerma/deepakwerma.git'
-hint: Updates were rejected because the remote contains work that you do not
-hint: have locally. This is usually caused by another repository pushing to
-hint: the same ref. If you want to integrate the remote changes, use
-hint: 'git pull' before pushing again.
-hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deepakrvermaa@gmail.com) 
 
-E:\Web Dev\Profile>
-E:\Web Dev\Profile>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=deepakwerma&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=deepakwerma&theme=shadow_blue&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakwerma&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
