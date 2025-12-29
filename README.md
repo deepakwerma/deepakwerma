@@ -1,5 +1,5 @@
 # About Me:
-Full stack developer learning AI, building projects, and open to internships and collaborations.
+Full stack developer building web apps and learning AI. I like shipping projects, solving problems, and improving through real work. Open to internships and collaborations.
 
 
 ## 🌐 Socials:
